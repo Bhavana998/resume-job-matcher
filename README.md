@@ -78,15 +78,15 @@ Cosine Similarity calculates the match score.
 Result is displayed as percentage.
 
 ### 📂 Project Structure
-resume-job-matcher/
-│
-├── app.py                 # Streamlit frontend
-├── src/
-│   ├── matcher.py         # Matching logic
-│   ├── preprocessing.py   # Text cleaning
-│
-├── requirements.txt
-└── README.md
+          resume-job-matcher/
+          │
+          ├── app.py             # Streamlit frontend
+          ├── src/
+          ├── matcher.py         # Matching logic
+          ├── preprocessing.py   # Text cleaning
+          │
+          ├── requirements.txt
+          └── README.md
 
 ### 🛠 Installation (Run Locally)
 
